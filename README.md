@@ -1,7 +1,7 @@
-#Project Title
+##Project Title
 Code Challenge (Phase 1 WK 2 ) 30th March 2024
 
-#Project Description
+##Project Description
 This project contains Worked out solutions for the following challenges
 
 Question 1
@@ -15,18 +15,18 @@ You are tasked with writing a function that takes an array of numbers as input a
 
 .................................................................................................................................................................................................................................
 
-# Installation instruction
+## Installation instruction
 Git clone git@github.com:Kamau-sam/Code-Challenge-wk2.git
 
 
-Technologies used
+##Technologies used
 Vs Code ,Javascript, Node.js GIT
 
-Contributing
+##Contributing
 Open for contribution/ suggestions
 
-Authors
-~Kamau
+##Author
+Kamau~
 
-License
+##License
 UNrestricted/ Open
