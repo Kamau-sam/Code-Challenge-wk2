@@ -16,7 +16,7 @@ You are tasked with writing a function that takes an array of numbers as input a
 .................................................................................................................................................................................................................................
 
 # Installation instruction
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone git@github.com:Kamau-sam/Code-Challenge-wk2.git
 
 
 Technologies used
