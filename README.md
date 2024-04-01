@@ -31,9 +31,8 @@ Vs Code ,Javascript, Node.js GIT
 
 Feel free to reach out  for contribution and or suggestions
 
-##Author
+### Author
 Kamau~
-
 
 ### License
 The content of this site is licensed under the MIT license
