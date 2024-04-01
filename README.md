@@ -1,8 +1,9 @@
-##Project Title
+# (Project Name)
+Code Challenge (Phase 1 WK 2 ) 
 
-Code Challenge (Phase 1 WK 2 ) 30th March 2024
-
-##Project Description
+#### Date, 
+31st March 2024
+## Description
 
 This project contains Worked out solutions for the following challenges
 
@@ -22,16 +23,20 @@ You are tasked with writing a function that takes an array of numbers as input a
 Git clone git@github.com:Kamau-sam/Code-Challenge-wk2.git
 
 
-##Technologies used
+## Technologies used
 
 Vs Code ,Javascript, Node.js GIT
 
-##Contributing
+### Contribution
 
-Open for contribution/ suggestions
+Feel free to reach out  for contribution and or suggestions
 
 ##Author
 Kamau~
 
-##License
-UNrestricted/ Open
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024.
+
+
