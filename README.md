@@ -1,4 +1,4 @@
-# (Project Name)
+# Project Name
 Code Challenge (Phase 1 WK 2 ) 
 
 #### Date, 
